@@ -1,0 +1,446 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Lorena",
+      "surnames": "Esteban Simarro",
+      "title": "QA Tester ◦ Manual ◦ Automation Playwright ◦ JIRA ◦ API Testing ◦ Scrum    || Personas | Docente FPE | Deporte | Fotografía ||",
+      "description": "Looking for a QA professional who combines analytical thinking, attention to detail, and a genuine understanding of people?Part social impact professional. Part photographer. Part athlete. Part QA Tester. Entirely curious.For more than 10 years, I have been helping people, improving processes, and finding solutions. Now, I bring that same mindset into Quality Assurance.🔍 Analytical by nature.📸 Detail-oriented by training @pecorino.lab🏀 Team-focused by experience.🤝 Human-centred by profession.I believe quality is not only about finding bugs. It's about understanding users, asking better questions, and continuously improving systems and experiences.My goal is simple: deliver quality without forgetting warmth.📚 Professional Certificate in Vocational Training for Employment (FPE).⚖️ Spanish Ministry of Justice Registry. Registered Mediator Nº 29056.📩 Let's connect if you value quality, curiosity, continuous learning, and a people-first approach to problem-solving.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/07/08/cfd1bdc9-7861-4eec-96cc-e2474345cb9a_avatar.png",
+        "alt": "avatar.png.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkY5hXt0UWQ0RqImEFfET30k)",
+        "country": "España",
+        "region": "Aragón",
+        "municipality": "Zaragoza"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/lorsimarro/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Adalab"
+        },
+        "roles": [
+          {
+            "name": "QA Tester Trainee",
+            "startDate": "2026-02-01",
+            "challenges": [
+              {
+                "description": "QA Tester | Manual Testing · API Testing · Test Automation  Experiencia en diseño y ejecución de pruebas funcionales, exploratorias y de APIs, aplicando metodologías BDD/Gherkin para garantizar la calidad del software. Desarrollo de pruebas automatizadas con Python, Playwright y Pytest en entornos ágiles Scrum, gestionando incidencias y documentación mediante Jira y Confluence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Acción contra el Hambre"
+        },
+        "roles": [
+          {
+            "name": "Responsable Escuela Migrantes Andalucía Oriental",
+            "startDate": "2025-01-01",
+            "finishDate": "2026-01-01",
+            "challenges": [
+              {
+                "description": "Gestión y seguimiento de procesos de acompañamiento grupal e individualizado de 80 personas, garantizando trazabilidad de acciones, resultados y evolución de cada caso.  Análisis de resultados e indicadores de inserción laboral, alcanzando una tasa de inserción del 50%.  Planificación, ejecución y evaluación de 5 acciones formativas en las cuatro provincias que conforman el territorio de Andalucía Oriental, asegurando cumplimiento de objetivos y estándares de calidad.  Coordinación administrativa y documental de proveedores: elaboración de TDR, contratos, hojas de servicio y control de facturación.  Revisión y validación de documentación, asegurando coherencia, exactitud y cumplimiento de procedimientos internos.  Trabajo coordinado con equipos internos y externos, facilitando una comunicación fluida y alineada con los objetivos del proyecto.  Diseño, adaptación e impartición de talleres competenciales, incluyendo traducción y adaptación de contenidos para públicos angloparlantes y francófonos.  Uso habitual de herramientas digitales y de soporte informático, incluyendo Copilot y ChatGPT, para optimización de tareas, generación de contenidos y mejora de procesos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FEDERACION ANDALUZA DE BALONCESTO"
+        },
+        "roles": [
+          {
+            "name": "Entrenadora de Baloncesto",
+            "startDate": "2024-09-01",
+            "finishDate": "2026-06-01",
+            "challenges": [
+              {
+                "description": "Categorías de formación"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Acción contra el Hambre"
+        },
+        "roles": [
+          {
+            "name": "Responsable Intermediación Laboral Andalucía Oriental",
+            "startDate": "2024-04-01",
+            "finishDate": "2024-12-01",
+            "challenges": [
+              {
+                "description": "Análisis del mercado laboral en las cuatro provincias de Andalucía Oriental para la identificación de oportunidades y necesidades del entorno productivo.  Elaboración de diagnósticos y itinerarios personalizados, aplicando criterios objetivos y seguimiento sistemático.  Gestión de procesos de intermediación laboral con empresas: prospección, coordinación y seguimiento de vacantes.  Apoyo en procesos de selección: cribado de candidaturas, entrevistas y evaluación de perfiles.  Diseño, impartición y evaluación de talleres formativos adaptados a distintos públicos.  Adaptación a metodologías y dinámicas de trabajo de distintos equipos, cumpliendo plazos y objetivos semanales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cruz Roja Española"
+        },
+        "roles": [
+          {
+            "name": "Técnica de Empleo",
+            "startDate": "2024-01-01",
+            "finishDate": "2024-01-01",
+            "challenges": [
+              {
+                "description": "Programa Itinerarios Integrales de acceso al empleo | Activando Empleabilidad Plus  -Realización de diagnóstico e itinerarios personalizados de orientación. -Diseño e impartición de talleres."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fundación Adecco"
+        },
+        "roles": [
+          {
+            "name": "Consultora de Integración & Inclusión",
+            "startDate": "2022-01-01",
+            "finishDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "Programa Colectivos Vulnerables, financiado por Fondos Europeos Next Generation EU.  -Realización de diagnóstico e itinerarios personalizados de orientación. -Intermediación laboral con empresas. Funciones de prospección. -Elaboración de ofertas. Apoyo en procesos de selección de personal. Realización de entrevistas. -Diseño e impartición de talleres."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ayuntamiento de Isla Cristina"
+        },
+        "roles": [
+          {
+            "name": "Trabajadora social",
+            "startDate": "2021-01-01",
+            "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Ámbito administrativo:  -Gestión de prestaciones no contributivas.  -Aplazamiento deudas.  -Pobreza energética.  Ámbito extranjería: -Arraigo social.  Ámbito prevención:  -Líneas de intervención Creciendo en Salud y Forma Joven adscritas por centros educativos.  Participación en radio local: Islapreviene"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CLECE, S.A."
+        },
+        "roles": [
+          {
+            "name": "Coordinadora de zona",
+            "startDate": "2018-10-01",
+            "finishDate": "2020-12-01",
+            "challenges": [
+              {
+                "description": "Coordinación con coord. técnicos TS. Realización de cuadrantes de seguimiento e incidencias del personal de atención directa. Facturación mensual. Gestión y seguimiento del equipo de auxiliares de atención domiciliaria Evaluación y supervisión de la evolución de los casos a través de los protocolos facilitados por el Ayuntamiento. -\tDetección y resolución de incidencias. -\tCoordinación con TS de los CSS referentes. -\tRealización de informes sociales. -\tCoordinaciones individuales de casos específicos con TSCSS. -\tVisitas a domicilio. -\tSeguimiento de casos (SAD Preventivo, Cargas Familiares, Causas Sobrevenidas, Albergue Municipal, SAD Dependencia)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CLECE, S.A."
+        },
+        "roles": [
+          {
+            "name": "Ayudante de Coordinación SAD",
+            "startDate": "2016-11-01",
+            "finishDate": "2018-10-01",
+            "challenges": [
+              {
+                "description": "Coordinación con coord. técnicos TS. Realización de entrevistas. Selección de personal. Contratos. Impartición sesiones formativas SAD y PRL.  Elaboración memoria anual SAD 2017 y 2018 Facturación mensual. Gestión y trámite documental SAD Dependencia. Detección y resolución de incidencias diarias en la guardia telefónica. Elaboración de cuadrantes de seguimiento e incidencias del personal de atención directa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ministerio de Desarrollo Social de la Nacion"
+        },
+        "roles": [
+          {
+            "name": "Pasantía de Cooperación Internacional ",
+            "startDate": "2013-09-01",
+            "finishDate": "2013-12-01",
+            "challenges": [
+              {
+                "description": "REGISTRO ÚNICO DE ONGS Y ENTIDADES DE BIEN PÚBLICO:  Recopilación, análisis y sistematización de información mediante entrevistas a 154 organizaciones sociales. Elaboración de informes y bases de datos para registro y seguimiento de entidades. Diseño de logística de trabajo de campo y mapeos territoriales. Trabajo en equipo para el análisis de información social y detección de problemáticas comunes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Campus Sito Alonso"
+        },
+        "roles": [
+          {
+            "name": "Monitora/entrenadora campus deportivo",
+            "startDate": "2010-01-01",
+            "finishDate": "2012-01-01",
+            "challenges": [
+              {
+                "description": "Primera quincena de Julio, de 2010 a 2012 (ambos inclusive). Niños y jóvenes de edades comprendidas entre 7 y 18 años."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Federacion Aragonesa De Baloncesto"
+        },
+        "roles": [
+          {
+            "name": "Entrenadora de baloncesto",
+            "startDate": "2005-09-01",
+            "finishDate": "2013-06-01",
+            "challenges": [
+              {
+                "description": "Categorías de formación"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "IT",
+        "fullName": "Italiano",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Adobe Lightroom",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ChatGPT",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pytest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Curso Básico y Medio de Fotografía Digital",
+        "startDate": "2014-01-01",
+        "institution": {
+          "name": "Galería y Escuela de Fotografía Spectrum Sotos"
+        },
+        "finishDate": "2015-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Curso de Seo Online",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Aula CM - Escuela de Comunicación y Marketing Online"
+        },
+        "finishDate": "2021-12-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Experta/o en promoción y orientación laboral",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Colegio Profesional de Trabajo Social de Málaga"
+        },
+        "finishDate": "2021-12-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Trabajo Social",
+        "startDate": "2026-07-08",
+        "institution": {
+          "name": "Universidad de Zaragoza"
+        },
+        "finishDate": "2014-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's degree",
+        "startDate": "2019-01-01",
+        "institution": {
+          "name": "Universidad Europea Miguel de Cervantes"
+        },
+        "finishDate": "2020-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "QA Tester",
+        "startDate": "2026-02-01",
+        "institution": {
+          "name": "Adalab"
+        },
+        "finishDate": "2026-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/lorsimarro/",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "QA & Testing Engineer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Adobe Lightroom",
+        "type": "technology"
+      },
+      {
+        "name": "ChatGPT",
+        "type": "technology"
+      },
+      {
+        "name": "Confluence",
+        "type": "technology"
+      },
+      {
+        "name": "Github",
+        "type": "technology"
+      },
+      {
+        "name": "Pytest",
+        "type": "technology"
+      }
+    ]
+  }
+}
