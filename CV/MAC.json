@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/lorsimarro/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/lmes4"
       }
     ]
   },
@@ -404,6 +408,10 @@
         {
           "URL": "https://www.linkedin.com/in/lorsimarro/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/lmes4",
+          "type": "github"
         }
       ]
     },
